@@ -1,0 +1,27 @@
+[
+    {
+        "Subject": "English",
+        "value": "#f00"
+    },
+    {
+        "Subject": "Telugu",
+        "value": "#ef0"
+    },
+    {
+        "Subject": "Hindi",
+        "value": "#f00"
+    },
+    {
+        "Subject": "Maths",
+        "value": "#ef0"
+    },
+    {
+        "Subject": "Science",
+        "value": "#f00"
+    },
+    {
+        "Subject": "Social",
+        "value": "#ef0"
+    }
+
+]
